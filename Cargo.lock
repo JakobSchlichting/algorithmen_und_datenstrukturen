@@ -5,3 +5,15 @@ version = 4
 [[package]]
 name = "gcd"
 version = "0.1.0"
+
+[[package]]
+name = "list"
+version = "0.1.0"
+
+[[package]]
+name = "pointer"
+version = "0.1.0"
+
+[[package]]
+name = "queue_for_stack"
+version = "0.1.0"

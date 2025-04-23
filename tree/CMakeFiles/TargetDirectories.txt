@@ -1,0 +1,3 @@
+/Users/jakobschlichting/source/algorithmen_und_datenstrukturen/tree/CMakeFiles/bin_tree.dir
+/Users/jakobschlichting/source/algorithmen_und_datenstrukturen/tree/CMakeFiles/edit_cache.dir
+/Users/jakobschlichting/source/algorithmen_und_datenstrukturen/tree/CMakeFiles/rebuild_cache.dir
